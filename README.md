@@ -1,5 +1,5 @@
 # Project
-This is a project about Book Recommendation using variational autoencoders. 
+This is a project about Book Recommendation using variational autoencoders. I tried to find the most appropriate parameters for the dataset during the model training session. A comprehensive comparison of the performance of different models on different datasets was also made.
 
 The RecVAE model used was derived from https://dl.acm.org/doi/10.1145/3336191.3371831
 
