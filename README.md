@@ -1,6 +1,8 @@
 # Project
 This is a project about Book Recommendation using variational autoencoders. I tried to find the most appropriate parameters for the dataset during the model training session. A comprehensive comparison of the performance of different models on different datasets was also made.
 
+Version: conda 4.5.11 -python 3.9.18 -pytorch 1.12.1 -cudatoolkit 11.3.1
+
 The RecVAE model used was derived from https://dl.acm.org/doi/10.1145/3336191.3371831
 
 The MultVAE model used was derived from https://arxiv.org/abs/1802.05814
