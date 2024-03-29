@@ -17,4 +17,4 @@ Douban: https://opendata.pku.edu.cn/dataset.xhtml?persistentId=doi%3A10.18170/DV
 
 GoodReads: https://cseweb.ucsd.edu/~jmcauley/datasets.html#goodreads
 
-Amazon-Books: https://recbole.io/cn/dataset_list.html
+Amazon-Books: https://amazon-reviews-2023.github.io/
