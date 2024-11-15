@@ -9,7 +9,7 @@ The MultVAE model used was derived from https://arxiv.org/abs/1802.05814
 
 The MacridVAE model used was derived from https://arxiv.org/abs/1910.14238
 
-Dataset:
+Datasets:
 
 BooK-Crossing: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset/data
 
